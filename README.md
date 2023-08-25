@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pedro Ferreira</h1>
 <h3 align="center">A fullstack developer from Brazil</h3>
 
-- 🔭 I’m currently working on [pokemon-petition](https://github.com/Pe-Ferreira/pokemon-petition-v2)
+<!-- - 🔭 I’m currently working on [pokemon-petition](https://github.com/Pe-Ferreira/pokemon-petition-v2) -->
 
-- 🌱 I’m currently learning **Tailwind CSS and Firebase**
+<!--- 🌱 I’m currently learning **Tailwind CSS and Firebase** -->
 
 - 📫 How to reach me **gpdferreira@gmail.com**
 
