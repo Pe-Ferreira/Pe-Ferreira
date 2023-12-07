@@ -12,4 +12,4 @@
 <a href="https://instagram.com/pd.ferreira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pd.ferreira" height="20" /></a>
 </p>
 
-<h3 align="left">My main tech stack is: JAVA / SPRINGBOOT / JEE / JAVASCRIPT / TYPESCRIPT / ANGULAR / ANGULAR MATERIAL / BOOTSTRAP / ORACLE </h3>
+My main tech stack is: JAVA / SPRINGBOOT / JEE / JAVASCRIPT / TYPESCRIPT / ANGULAR / ANGULAR MATERIAL / BOOTSTRAP / ORACLE
