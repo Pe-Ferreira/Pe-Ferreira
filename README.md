@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Pedro Ferreira
 
-- 🔭 I’m currently working on [coding-steak](https://github.com/Pe-Ferreira/coding-streak)
+- 🔭 I’m currently working on [coding-steak](https://github.com/Pe-Ferreira/kafka-conversation)
 - 📕 My current technical reading is "Effective Java" from Joshua Bloch
 - 📫 How to reach me **gpdferreira@gmail.com**
 - 📄 Know about [my experiences](https://www.linkedin.com/in/peferreira/)
