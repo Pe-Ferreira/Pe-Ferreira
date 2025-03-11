@@ -1,7 +1,7 @@
 ### Hi 👋, I'm Pedro Ferreira
 
 - 🔭 I’m currently working on [kafka-conversation](https://github.com/Pe-Ferreira/kafka-conversation)
-- 📕 My current technical reading is "Effective Java" from Joshua Bloch
+- 📕 My current technical reading is "Working effectively with legacy code" by Michael Feathers
 - 📫 How to reach me **gpdferreira@gmail.com**
 - 📄 Know about [my experiences](https://www.linkedin.com/in/peferreira/)
 
